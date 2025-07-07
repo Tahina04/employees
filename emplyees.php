@@ -1,5 +1,5 @@
 <?php
-include 'includes/db.php';
+include 'includes/employees.php';
 $dept = $_GET['dept'];
 ?>
 <!DOCTYPE html>
